@@ -149,11 +149,11 @@
 
 
 ## 📓課程筆記
-- **week 01(4/23)**
+- **week 01 (4/23)**
   - [Markdown語法說明](https://markdown.tw/)
   - 【影片】[How to Use GitHub](https://www.youtube.com/watch?v=v_1iqtOnUMg)
   - 【影片】[Install Anaconda Python, Jupyter Notebook And Spyder on Windows 11](https://www.youtube.com/watch?v=-sNX_ZMVpQM)
-- **week 02(3/2)**
+- **week 02 (3/2)**
 
 ## ✏課程練習
 
