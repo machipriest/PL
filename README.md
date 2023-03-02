@@ -157,6 +157,26 @@
 - **week 02 (3/2)**
   - 變數
     - 命名規則：英文、數字、底線組成，大小寫有異 --> 如：timeNum、timenum
+    - 變數型態：<br />  
+               <table>
+                  <tr>
+                      <td>int</td>
+                      <td>整數型態</td>
+                  </tr>
+                  <tr>
+                      <td>float</td>
+                      <td>浮點數型態</td>
+                  </tr>
+                  <tr>
+                      <td>str</td>
+                      <td>字串</td>
+                  </tr>
+                  <tr>
+                      <td>bool</td>
+                      <td>布林值</td>
+                  </tr>
+              </table>
+  - [官方Document](https://docs.python.org/3/tutorial/index.html)
           
 ## ✏課程練習
 
