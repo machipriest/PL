@@ -34,9 +34,9 @@
         <td align="center">作業繳交</td>
     </tr>
     <tr>
-        <td>W1</td>
-        <td>2/23</td>
-        <td>課程說明、安裝軟體、repo撰寫</td>
+        <td><s>W1<s></td>
+        <td><s>2/23<s></td>
+        <td><s>課程說明、安裝軟體、repo撰寫<s></td>
         <td align="center">✅</td>
         <td align="center">➖</td>
     </tr>
