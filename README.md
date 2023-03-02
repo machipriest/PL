@@ -153,8 +153,11 @@
   - [Markdown語法說明](https://markdown.tw/)
   - 【影片】[How to Use GitHub](https://www.youtube.com/watch?v=v_1iqtOnUMg)
   - 【影片】[Install Anaconda Python, Jupyter Notebook And Spyder on Windows 11](https://www.youtube.com/watch?v=-sNX_ZMVpQM)
-- **week 02 (3/2)**
 
+- **week 02 (3/2)**
+  - 變數
+    - 命名規則：英文、數字、底線組成，大小寫有異 --> 如：timeNum、timenum
+          
 ## ✏課程練習
 
 
