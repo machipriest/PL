@@ -34,17 +34,17 @@
         <td align="center">作業繳交</td>
     </tr>
     <tr>
-        <td><s>W1<s></td>
-        <td><s>2/23<s></td>
+        <td><s>W1</s></td>
+        <td><s>2/23</s></td>
         <td><s>課程說明、安裝軟體、repo撰寫<s></td>
         <td align="center">✅</td>
         <td align="center">➖</td>
     </tr>
     <tr>
-        <td>W2</td>
-        <td>3/2</td>
-        <td>Python基礎01</td>
-        <td align="center"></td>
+        <td><s>W2</s></td>
+        <td><s>3/2</s></td>
+        <td><s>Python基礎01</s></td>
+        <td align="center">✅</td>
         <td align="center">➖</td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@
 
 ## 📓課程筆記
 - **week 01 (4/23)**
-  - [Markdown語法說明](https://markdown.tw/)
+  - 【文件】[Markdown語法說明](https://markdown.tw/)
   - 【影片】[How to Use GitHub](https://www.youtube.com/watch?v=v_1iqtOnUMg)
   - 【影片】[Install Anaconda Python, Jupyter Notebook And Spyder on Windows 11](https://www.youtube.com/watch?v=-sNX_ZMVpQM)
 
@@ -176,10 +176,11 @@
                       <td>布林值</td>
                   </tr>
               </table>
-  - [官方Document (Python)](https://docs.python.org/3/tutorial/index.html)
+    - 【資源】[好的變數命名格式-駝峰式大小寫](https://zh.wikipedia.org/zh-tw/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB)
+  - 【文件】[官方Document (Python)](https://docs.python.org/3/tutorial/index.html)
           
 ## ✏課程練習
-
+- [練習一](https://github.com/machipriest/PL/blob/main/HW1/%E7%B7%B4%E7%BF%921.ipynb)
 
 ## 💯指派作業
 
