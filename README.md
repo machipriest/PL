@@ -176,7 +176,7 @@
                       <td>布林值</td>
                   </tr>
               </table>
-  - [官方Document](https://docs.python.org/3/tutorial/index.html)
+  - [官方Document (Python)](https://docs.python.org/3/tutorial/index.html)
           
 ## ✏課程練習
 
