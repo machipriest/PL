@@ -181,7 +181,7 @@
   
 - **week 03 (3/9)**
   - 【資源】[kaggle-數據建模和數據分析競賽平台](https://www.kaggle.com/)
-  - 【資源】[Python Pandas]
+  - 【文件】[Python Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)
           
 ## ✏課程練習
 - [練習一](https://github.com/machipriest/PL/blob/main/HW1/%E7%B7%B4%E7%BF%921.ipynb)
