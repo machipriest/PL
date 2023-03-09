@@ -178,6 +178,10 @@
               </table>
     - 【資源】[好的變數命名格式-駝峰式大小寫](https://zh.wikipedia.org/zh-tw/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB)
   - 【文件】[官方Document (Python)](https://docs.python.org/3/tutorial/index.html)
+  
+- **week 03 (3/9)**
+  - 【資源】[kaggle-數據建模和數據分析競賽平台](https://www.kaggle.com/)
+  - 【資源】[Python Pandas]
           
 ## ✏課程練習
 - [練習一](https://github.com/machipriest/PL/blob/main/HW1/%E7%B7%B4%E7%BF%921.ipynb)
