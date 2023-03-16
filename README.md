@@ -50,7 +50,7 @@
     <tr>
         <td><s>W3</s></td>
         <td><s>3/9</s></td>
-        <td>vPython基礎02、作業1宣布</s></td>
+        <td><s>Python基礎02、作業1宣布</s></td>
         <td align="center">✅</td>
         <td align="center">➖</td>
     </tr>
