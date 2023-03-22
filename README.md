@@ -55,9 +55,9 @@
         <td align="center">➖</td>
     </tr>
     <tr>
-        <td><s>W4/s></td>
-        <td><s>3/16/s></td>
-        <td><s>Python基礎03/s></td>
+        <td><s>W4</s></td>
+        <td><s>3/16</s></td>
+        <td><s>Python基礎03</s></td>
         <td align="center">✅</td>
         <td align="center">➖</td>
     </tr>
