@@ -55,10 +55,10 @@
         <td align="center">➖</td>
     </tr>
     <tr>
-        <td>W4</td>
-        <td>3/16</td>
-        <td>Python基礎03</td>
-        <td align="center"></td>
+        <td><s>W4/s></td>
+        <td><s>3/16/s></td>
+        <td><s>Python基礎03/s></td>
+        <td align="center">✅</td>
         <td align="center">➖</td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@
         <td>3/23</td>
         <td>Python基礎04、作業2宣布、作業1繳交</td>
         <td align="center"></td>
-        <td align="center">1⃣</td>
+        <td align="center">1⃣✅</td>
     </tr>
     <tr>
         <td>W6</td>
