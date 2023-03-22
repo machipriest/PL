@@ -187,7 +187,7 @@
 - [練習一](https://github.com/machipriest/PL/blob/main/task1/%E7%B7%B4%E7%BF%921.ipynb)
 
 ## 💯指派作業
-
+- [作業一](https://github.com/machipriest/PL/blob/main/hw1/Untitled.ipynb)
 
 ## 🖥專題紀錄
 
