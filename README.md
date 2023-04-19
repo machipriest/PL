@@ -187,9 +187,9 @@
 - [練習一](https://github.com/machipriest/PL/blob/main/task1/%E7%B7%B4%E7%BF%921.ipynb)
 
 ## 💯指派作業
-- [作業一](https://github.com/machipriest/PL/blob/main/hw1/Untitled.ipynb)
-- [作業二](https://github.com/machipriest/PL/blob/main/hw2/Untitled.ipynb)
-- [作業三](https://github.com/machipriest/PL/blob/main/hw3/Untitled.ipynb)
+- [作業一(csv格式操作)](https://github.com/machipriest/PL/blob/main/hw1/Untitled.ipynb)
+- [作業二(json格式操作)](https://github.com/machipriest/PL/blob/main/hw2/Untitled.ipynb)
+- [作業三(網路爬蟲)](https://github.com/machipriest/PL/blob/main/hw3/Untitled.ipynb)
 
 ## 🖥專題紀錄
 
