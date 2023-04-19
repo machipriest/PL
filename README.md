@@ -94,7 +94,7 @@
         <td>4/20</td>
         <td>Python資料視覺化、作業4宣布、作業3繳交</td>
         <td align="center"></td>
-        <td align="center">3⃣</td>
+        <td align="center">3⃣✅</td>
     </tr>
     <tr>
         <td>W10</td>
@@ -189,6 +189,7 @@
 ## 💯指派作業
 - [作業一](https://github.com/machipriest/PL/blob/main/hw1/Untitled.ipynb)
 - [作業二](https://github.com/machipriest/PL/blob/main/hw2/Untitled.ipynb)
+- [作業三](https://github.com/machipriest/PL/blob/main/hw3/Untitled.ipynb)
 
 ## 🖥專題紀錄
 
