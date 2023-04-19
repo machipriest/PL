@@ -80,7 +80,7 @@
         <td>4/6</td>
         <td>Python網路爬蟲、作業3宣布、作業2繳交</td>
         <td align="center"></td>
-        <td align="center">2⃣</td>
+        <td align="center">2⃣✅</td>
     </tr>
     <tr>
         <td>W8</td>
@@ -188,6 +188,7 @@
 
 ## 💯指派作業
 - [作業一](https://github.com/machipriest/PL/blob/main/hw1/Untitled.ipynb)
+- [作業二](https://github.com/machipriest/PL/blob/main/hw2/Untitled.ipynb)
 
 ## 🖥專題紀錄
 
