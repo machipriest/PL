@@ -192,7 +192,8 @@
 - [作業三(網路爬蟲)](https://github.com/machipriest/PL/blob/main/hw3/Untitled.ipynb)
 
 ## 🖥專題紀錄
-- **進度回報(一)**
+- **專題相關**
     - [簡報](https://docs.google.com/presentation/d/19gCC6C8e_Rg4asEE6wTL2w3I1oX0xpJAoRJ_Q2CfJFQ/edit?usp=sharing)
     - [程式碼](https://github.com/machipriest/PL/blob/main/movie_guide/movie_guide.ipynb)
+    - [影片](https://www.youtube.com/watch?v=sK6qGWCvJDQ)
 
